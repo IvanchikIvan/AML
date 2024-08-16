@@ -22,7 +22,7 @@ In this example, the memory usage of `Telegram.exe` is limited to 1000 megabytes
 
 ## Installation
 
-1. Download the latest release from the [releases page](#).
+1. Download the latest release from the [releases page](https://github.com/IvanchikIvan/AML/releases).
 2. Extract the contents of the archive to a directory of your choice.
 3. Open a command prompt in the directory where `AML.exe` is located.
 
